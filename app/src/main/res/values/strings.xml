@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">chatup</string>
+    <string name="login">Login</string>
+    <string name="registrati_ora">Registrati Ora</string>
+</resources>
