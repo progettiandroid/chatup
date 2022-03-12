@@ -12,9 +12,12 @@
         <entry key="..\:/Users/shutt/OneDrive/Desktop/android studio/progetti android/chatup/app/src/main/res/drawable/ic_email.xml" value="0.1" />
         <entry key="..\:/Users/shutt/OneDrive/Desktop/android studio/progetti android/chatup/app/src/main/res/drawable/ic_emailfocus.xml" value="0.13778501628664494" />
         <entry key="..\:/Users/shutt/OneDrive/Desktop/android studio/progetti android/chatup/app/src/main/res/drawable/passwordfocus.xml" value="0.13778501628664494" />
-        <entry key="..\:/Users/shutt/OneDrive/Desktop/android studio/progetti android/chatup/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/shutt/OneDrive/Desktop/android studio/progetti android/chatup/app/src/main/res/layout/activity_login.xml" value="0.18" />
-        <entry key="..\:/Users/shutt/OneDrive/Desktop/android studio/progetti android/chatup/app/src/main/res/layout/activity_register.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/shutt/OneDrive/Desktop/android studio/progetti android/chatup/app/src/main/res/layout/activity_home.xml" value="0.16" />
+        <entry key="..\:/Users/shutt/OneDrive/Desktop/android studio/progetti android/chatup/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/shutt/OneDrive/Desktop/android studio/progetti android/chatup/app/src/main/res/layout/activity_register.xml" value="0.17" />
+        <entry key="..\:/Users/shutt/OneDrive/Desktop/android studio/progetti android/chatup/app/src/main/res/layout/chat_msg_row.xml" value="0.15" />
+        <entry key="..\:/Users/shutt/OneDrive/Desktop/android studio/progetti android/chatup/app/src/main/res/menu/Layout_menu.xml" value="0.12894736842105264" />
+        <entry key="..\:/Users/shutt/OneDrive/Desktop/android studio/progetti android/chatup/app/src/main/res/menu/layoutmenu.xml" value="0.16" />
       </map>
     </option>
   </component>

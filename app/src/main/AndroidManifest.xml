@@ -10,13 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Chatup">
         <activity
-            android:name=".register"
+            android:name=".activity.RegisterActivity"
             android:exported="false" />
         <activity
-            android:name=".home"
+            android:name=".activity.HomeActivity"
             android:exported="false" />
         <activity
-            android:name=".login"
+            android:name=".activity.LoginActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
